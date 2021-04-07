@@ -12,7 +12,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"fhs_entry.json"
+                 "value":"fhs_entry.json#stairs"
                 }],
          "type":"tilelayer",
          "visible":true,
