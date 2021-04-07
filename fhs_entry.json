@@ -174,7 +174,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"Audiowalkurenritt.mp3"
+                 "value":"Audio\/walkurenritt.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
