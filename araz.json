@@ -222,27 +222,27 @@
                 {
                  "animation":[
                         {
-                         "duration":100,
+                         "duration":500,
                          "tileid":57
                         }, 
                         {
-                         "duration":100,
+                         "duration":500,
                          "tileid":58
                         }, 
                         {
-                         "duration":100,
+                         "duration":500,
                          "tileid":59
                         }, 
                         {
-                         "duration":100,
+                         "duration":500,
                          "tileid":60
                         }, 
                         {
-                         "duration":100,
+                         "duration":500,
                          "tileid":61
                         }, 
                         {
-                         "duration":100,
+                         "duration":500,
                          "tileid":62
                         }],
                  "id":57
