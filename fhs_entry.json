@@ -84,7 +84,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/users.multimediatechnology.at\/~fhs45883\/hotel\/"
+                 "value":"https:\/\/www.fh-salzburg.ac.at\/"
                 }],
          "type":"tilelayer",
          "visible":true,
