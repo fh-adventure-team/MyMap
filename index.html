@@ -9,12 +9,15 @@
                 var url = 'https://play.meetup.soelder.net/_/global/'+window.location.host+path+'main.json';
                 document.getElementById('mapLink').href = url;
                 document.getElementById('mapLink').innerText = url;
+                var alternateUrl = 'https://workadventu.re/_/global/'+window.location.host+path+'main.json';
+                document.getElementById('mapLink2').href = alternateUrl;
+                document.getElementById('mapLink2').innerText = alternateUrl;
             };
         </script>
     </head>
     <body>
         This website contains a map for <a href="https://workadventu.re">Workadventu.re</a>.
         <br/>
-        You can access this map at <a id="mapLink" href=""></a>
+        You can access this map at <a id="mapLink" href=""></a> or <a id="mapLink2" href=""></a>
     </body>
 </html>
