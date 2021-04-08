@@ -12,7 +12,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"fhs_entry.json#bathroom"
+                 "value":"main.json#bathroom"
                 }],
          "type":"tilelayer",
          "visible":true,
